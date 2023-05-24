@@ -1,4 +1,4 @@
-I'm a Front-End web developer with 2 years experience. I've experience in creating web applications using React JS and Vue JS. I prefer to create large web applications using React/RTK/RTKQuery stack. Working with me You'll get clean, readable and maintainable code covered with tests. See projects in portfolio.
+I'm a Front-End web developer with 2 years experience. I've experience in creating web applications using React JS and Vue JS. I prefer to create large web applications using React/RTK/RTKQuery stack. Working with me You'll get clean, readable and maintainable code covered with tests.
 
 I work using these technologies:
 HTML5, Canvas
